@@ -5,3 +5,8 @@
 ##### This is an H5 header
 ###### This is an H6 header
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+```python
+defgreet(name):
+  return f"Hello,{Fathima Shifana}!"
+print(greet("World"))
+```
